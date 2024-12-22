@@ -1,0 +1,27 @@
+.lable {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: helvetica;
+
+
+}
+
+.btnContainer {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(68, 117, 117);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+
+}
+
+.btn:hover {
+    background-color: rgb(46, 224, 224);
+}
